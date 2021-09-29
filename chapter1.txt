@@ -1,1 +1,1 @@
-Exploring version control using git 
+So it all started on a random tuesday afternoon. The weather was unusually gloomy for june.
